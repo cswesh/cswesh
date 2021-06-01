@@ -75,7 +75,8 @@
 <details>
     <summary>:zap: GitHub Languages</summary>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswesh&layout=compact)](https://github.com/cswesh/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswesh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
