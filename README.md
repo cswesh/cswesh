@@ -1,4 +1,4 @@
-### Hi there, I'm Swesh [website] 👋
+### Hi there, I'm Swesh [website]👋
 
 [![Website](https://img.shields.io/website?label=swesh.com&style=for-the-badge&url=https%3A%2F%2Frelaxed-ramanujan-9b3355.netlify.app)](https://relaxed-ramanujan-9b3355.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cswesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcswesh&screen_name=cswesh)
@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswesh&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
@@ -46,7 +46,8 @@
 ---
 
 <!-- <details> -->
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity
+  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#38894](https://github.com/firstcontributions/first-contributions/pull/38894) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
@@ -58,13 +59,14 @@
 
 <!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+  <!-- <summary>:zap: GitHub Stats</summary> -->
+### :zap: GitHub Stats
 
   ![Swesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswesh&count_private=true&show_icons=true&theme=radical)
 
 
-</details>
+<!-- </details> -->
 
 
 [website]: https://relaxed-ramanujan-9b3355.netlify.app/
