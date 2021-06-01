@@ -41,6 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What would you do if you were the CEO of a business named Corona?](https://medium.com/@cswesh/what-would-you-do-if-you-were-the-ceo-of-a-business-named-corona-794dc4e81ffe?source=rss-3c906d161b19------2)
+- [The name is TATA](https://appalamvada.wordpress.com/2014/03/07/the-name-is-tata/)
+- [Ok Google](https://appalamvada.wordpress.com/2014/02/22/ok-google/)
+- [Normandy – A belated straggler](https://appalamvada.wordpress.com/2014/02/14/normandy-a-belated-straggler/)
+- [Who is the winner?](https://appalamvada.wordpress.com/2014/02/07/who-is-the-winner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
