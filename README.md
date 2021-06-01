@@ -1,6 +1,6 @@
-### Hi there, I'm Swesh [website]👋
+### Hi there, I'm Swesh 👋
 
-[![Website](https://img.shields.io/website?label=swesh.com&style=for-the-badge&url=https%3A%2F%2Frelaxed-ramanujan-9b3355.netlify.app)](https://relaxed-ramanujan-9b3355.netlify.app)
+[![Website](https://img.shields.io/website?label=mysite&style=for-the-badge&url=https%3A%2F%2Frelaxed-ramanujan-9b3355.netlify.app)](https://relaxed-ramanujan-9b3355.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cswesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcswesh&screen_name=cswesh)
 
 ## I'm a Developer, Consultant, and Mentor!!
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cswesh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cswesh" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cswesh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="cswesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cswesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -26,10 +26,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswesh&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: GitHub Stats
+
+  ![Swesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswesh&count_private=true&show_icons=true&theme=radical)
 
 <br />
-<br />
-
 ---
 
 <!-- ### 📺 Latest YouTube Videos
@@ -61,21 +62,14 @@
 
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-### :zap: GitHub Stats
 
-  ![Swesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswesh&count_private=true&show_icons=true&theme=radical)
 
 
 <!-- </details> -->
 
 
 [website]: https://relaxed-ramanujan-9b3355.netlify.app/
-[course]: #
 [twitter]: https://twitter.com/cswesh
 [youtube]: https://youtube.com/cswesh
 [instagram]: https://instagram.com/cswesh
 [linkedin]: https://www.linkedin.com/in/cswesh
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
