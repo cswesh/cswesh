@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🏷 I’m a MERN stack developer / SharePoint Dev / Azure Champ / Microsoft Technologies
-- 👯 I’m would like to work with other content creators 🤝
+- 👯 I would like to work with other content creators 🤝
 - 🥅 2021 Goals: Contribute more to LinkedIn community, Open Source projects, Github repos and Blog posts! 🖋
 - ⚡ Fun fact: I love to draw and play guitar
 
