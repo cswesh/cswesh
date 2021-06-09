@@ -40,18 +40,24 @@
 
 ### :zap: GitHub Stats
 
-<table><tbody>
-<tr>
+<table><tbody><tr>
 
 <td><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></span></td>
 
-<td><span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en" alt="cswesh" /></span></td>
+<td><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh&theme=radical" alt="cswesh" /></a></span></td>
 
-<td><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&" alt="cswesh" /></span></td></tr>
+</tr></tbody></table>
+<table><tbody><tr>
 
-<tr><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh" alt="cswesh" /></a></span></tr>
+<td><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en&theme=radical" alt="cswesh" /></span></td>
 
-</tbody></table>
+<td><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&theme=radical" alt="cswesh" /></span></td>
+
+</tr></tbody></table>
+
+
+
+
 
   <!-- ![Swesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswesh&count_private=true&show_icons=true&theme=radical) -->
 
