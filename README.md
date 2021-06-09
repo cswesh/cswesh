@@ -1,5 +1,6 @@
 <!-- ### Hi there, I'm Swesh 👋 -->
 <h1 align="center">Hi 👋, I'm Swesh!</h1>
+<h2 align="center">I'm a Developer, Consultant, and Mentor!!</h2>
 
 <p align="center">
 
@@ -9,7 +10,7 @@
 
 </p>
 
-<h2 align="center">I'm a Developer, Consultant, and Mentor!!</h2>
+
 
 - 🌱 I’m currently learning everything 🤣
 - 🏷 I’m a MERN stack developer / SharePoint Dev / Azure Champ / Microsoft Technologies
@@ -40,18 +41,18 @@
 
 ### :zap: GitHub Stats
 
-<table><tbody><tr>
+<table><tbody><tr style="border: none !important;">
 
-<td><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></span></td>
+<td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></span></td>
 
-<td><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh&theme=radical" alt="cswesh" /></a></span></td>
+<td style="border: none !important;"><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh&theme=radical" alt="cswesh" /></a></span></td>
 
 </tr></tbody></table>
-<table><tbody><tr>
+<table><tbody><tr style="border: none !important;">
 
-<td><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en&theme=radical" alt="cswesh" /></span></td>
+<td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en&theme=radical" alt="cswesh" /></span></td>
 
-<td><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&theme=radical" alt="cswesh" /></span></td>
+<td style="border: none !important;"><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&theme=radical" alt="cswesh" /></span></td>
 
 </tr></tbody></table>
 
