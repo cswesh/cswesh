@@ -2,6 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=mysite&style=for-the-badge&url=https%3A%2F%2Frelaxed-ramanujan-9b3355.netlify.app)](https://relaxed-ramanujan-9b3355.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cswesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcswesh&screen_name=cswesh)
+![](https://komarev.com/ghpvc/?username=cswesh)
+![](https://komarev.com/ghpvc/?username=cswesh&label=PROFILE+VIEWS)
+
 
 ## I'm a Developer, Consultant, and Mentor!!
 
@@ -32,6 +35,11 @@
 
 <br />
 ---
+  <!-- [![MasterHead](your image link)](your GitHub link) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cswesh)](https://git.io/streak-stats)
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=cswesh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ### 📺 Latest YouTube Videos
 
