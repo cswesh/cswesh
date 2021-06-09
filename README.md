@@ -40,17 +40,18 @@
 
 ### :zap: GitHub Stats
 
-<table>
+<table><tbody>
+<tr>
 
-<tr><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></p></tr>
+<td><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></span></td>
 
-<tr><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en" alt="cswesh" /></p></tr>
+<td><span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en" alt="cswesh" /></span></td>
 
-<tr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&" alt="cswesh" /></p></tr>
+<td><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cswesh&" alt="cswesh" /></span></td></tr>
 
-</table>
+<tr><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh" alt="cswesh" /></a></span></tr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cswesh&label=Profile%20views&color=0e75b6&style=flat" alt="cswesh" /> </p>
+</tbody></table>
 
   <!-- ![Swesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswesh&count_private=true&show_icons=true&theme=radical) -->
 
