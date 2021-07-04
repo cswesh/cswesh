@@ -1,5 +1,5 @@
 <!-- ### Hi there, I'm Swesh 👋 -->
-<h1 align="center">Hi 👋, I'm Swesh!</h1>
+<h1 align="center">Hi there 👋, I'm Swesh!</h1>
 <h2 align="center">I'm a Developer, Consultant, and Mentor!!</h2>
 
 <p align="center">
