@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LET’S SURF!](https://appalamvada.wordpress.com/2021/07/07/lets-surf/)
 - [Windows 11 Leaked Build](https://appalamvada.wordpress.com/2021/06/18/windows-11-leaked-build/)
 - [Time & Money](https://cswesh.medium.com/time-money-35b54823de2b?source=rss-3c906d161b19------2)
 - [What would you do if you were the CEO of a business named Corona?](https://cswesh.medium.com/what-would-you-do-if-you-were-the-ceo-of-a-business-named-corona-794dc4e81ffe?source=rss-3c906d161b19------2)
 - [The name is TATA](https://appalamvada.wordpress.com/2014/03/07/the-name-is-tata/)
-- [Ok Google](https://appalamvada.wordpress.com/2014/02/22/ok-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
