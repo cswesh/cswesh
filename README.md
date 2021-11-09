@@ -78,10 +78,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Outage On Oct 4th (ooof)](https://appalamvada.wordpress.com/2021/10/16/outage-on-oct-4th-ooof/)
+- [Outage On Oct 4th &lpar;ooof&rpar;](https://appalamvada.wordpress.com/2021/10/16/outage-on-oct-4th-ooof/)
 - [LET’S SURF!](https://appalamvada.wordpress.com/2021/07/07/lets-surf/)
 - [Windows 11 Leaked Build](https://appalamvada.wordpress.com/2021/06/18/windows-11-leaked-build/)
-- [Time & Money](https://cswesh.medium.com/time-money-35b54823de2b?source=rss-3c906d161b19------2)
+- [Time &amp; Money](https://cswesh.medium.com/time-money-35b54823de2b?source=rss-3c906d161b19------2)
 - [What would you do if you were the CEO of a business named Corona?](https://cswesh.medium.com/what-would-you-do-if-you-were-the-ceo-of-a-business-named-corona-794dc4e81ffe?source=rss-3c906d161b19------2)
 <!-- BLOG-POST-LIST:END -->
 
