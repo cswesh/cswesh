@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create/Design Adaptive Cards Extensions In SharePoint Site By Out-Of-The-Box Way](https://www.c-sharpcorner.com/article/createdesign-adaptive-cards-extensions-in-sharepoint-site-by-out-of-the-box-way/)
+- [How To Handle Apostrophe In Email Address In Power Automate](https://www.c-sharpcorner.com/article/how-to-handle-apostrophe-in-email-address-in-power-automate/)
 - [Outage On Oct 4th &lpar;ooof&rpar;](https://appalamvada.wordpress.com/2021/10/16/outage-on-oct-4th-ooof/)
 - [LET’S SURF!](https://appalamvada.wordpress.com/2021/07/07/lets-surf/)
 - [Windows 11 Leaked Build](https://appalamvada.wordpress.com/2021/06/18/windows-11-leaked-build/)
-- [Time &amp; Money](https://cswesh.medium.com/time-money-35b54823de2b?source=rss-3c906d161b19------2)
-- [What would you do if you were the CEO of a business named Corona?](https://cswesh.medium.com/what-would-you-do-if-you-were-the-ceo-of-a-business-named-corona-794dc4e81ffe?source=rss-3c906d161b19------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
