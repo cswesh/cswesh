@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Attachments In SharePoint Document Library Using Power Apps List Control](https://www.c-sharpcorner.com/article/adding-attachments-in-sharepoint-document-library-using-power-apps-list-control/)
+- [Using Power Automate To Upload The Attachments From SharePoint Document Library](https://www.c-sharpcorner.com/article/using-power-automate-to-upload-the-attachments-from-sharepoint-document-library/)
+- [Display The Files Stored In Another SharePoint Library Using Power Apps](https://www.c-sharpcorner.com/article/display-the-files-stored-in-another-sharepoint-library-using-power-apps/)
 - [Create A Custom Date Picker In SharePoint List Forms Using Power Apps](https://www.c-sharpcorner.com/article/create-a-custom-date-picker-in-sharepoint-list-forms-using-power-apps/)
 - [ASP.NET Versus Node JS](/blogs/asp-net-versus-node-js)
-- [Create/Design Adaptive Cards Extensions In SharePoint Site By Out-Of-The-Box Way](https://www.c-sharpcorner.com/article/createdesign-adaptive-cards-extensions-in-sharepoint-site-by-out-of-the-box-way/)
-- [How To Handle Apostrophe In Email Address In Power Automate](https://www.c-sharpcorner.com/article/how-to-handle-apostrophe-in-email-address-in-power-automate/)
-- [Outage On Oct 4th &lpar;ooof&rpar;](https://appalamvada.wordpress.com/2021/10/16/outage-on-oct-4th-ooof/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
