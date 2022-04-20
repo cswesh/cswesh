@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Express Node JS App And Deploy To Azure Web App](https://www.c-sharpcorner.com/article/create-express-node-js-app-and-deploy-to-azure-web-app/)
 - [Adding Attachments In SharePoint Document Library Using Power Apps List Control](https://www.c-sharpcorner.com/article/adding-attachments-in-sharepoint-document-library-using-power-apps-list-control/)
 - [Using Power Automate To Upload The Attachments From SharePoint Document Library](https://www.c-sharpcorner.com/article/using-power-automate-to-upload-the-attachments-from-sharepoint-document-library/)
 - [Display The Files Stored In Another SharePoint Library Using Power Apps](https://www.c-sharpcorner.com/article/display-the-files-stored-in-another-sharepoint-library-using-power-apps/)
 - [Create A Custom Date Picker In SharePoint List Forms Using Power Apps](https://www.c-sharpcorner.com/article/create-a-custom-date-picker-in-sharepoint-list-forms-using-power-apps/)
-- [ASP.NET Versus Node JS](/blogs/asp-net-versus-node-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
