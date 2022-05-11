@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference Between Node Cache And Redis Cache](/blogs/difference-between-node-cache-and-redis-cache)
+- [Create a Redis Cache with Express Node JS](https://www.c-sharpcorner.com/article/create-a-redis-cache-with-express-node-js/)
 - [What&#39;s New In The NodeJS Version 18](/blogs/whats-new-in-the-nodejs-version-18)
 - [Create Express Node JS App And Deploy To Azure Web App](https://www.c-sharpcorner.com/article/create-express-node-js-app-and-deploy-to-azure-web-app/)
 - [Adding Attachments In SharePoint Document Library Using Power Apps List Control](https://www.c-sharpcorner.com/article/adding-attachments-in-sharepoint-document-library-using-power-apps-list-control/)
-- [Using Power Automate To Upload The Attachments From SharePoint Document Library](https://www.c-sharpcorner.com/article/using-power-automate-to-upload-the-attachments-from-sharepoint-document-library/)
-- [Display The Files Stored In Another SharePoint Library Using Power Apps](https://www.c-sharpcorner.com/article/display-the-files-stored-in-another-sharepoint-library-using-power-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
