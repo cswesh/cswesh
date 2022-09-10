@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 0 * * *'
+    # Runs every Sunday
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://medium.com/feed/@cswesh,https://appalamvada.wordpress.com/feed,https://www.c-sharpcorner.com/members/swesh-s/rss"
+          feed_list: "https://medium.com/feed/@cswesh,https://appalamvada.wordpress.com/feed,https://www.c-sharpcorner.com/members/swesh-s/rss,https://cswesh.github.io/feed.xml"
