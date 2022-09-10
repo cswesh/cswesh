@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Outage On Oct 4th &lpar;ooof&rpar;](https://appalamvada.wordpress.com/2021/10/16/outage-on-oct-4th-ooof/)
-- [LET’S SURF!](https://appalamvada.wordpress.com/2021/07/07/lets-surf/)
-- [Windows 11 Leaked Build](https://appalamvada.wordpress.com/2021/06/18/windows-11-leaked-build/)
-- [Time &amp; Money](https://cswesh.medium.com/time-money-35b54823de2b?source=rss-3c906d161b19------2)
-- [What would you do if you were the CEO of a business named Corona?](https://cswesh.medium.com/what-would-you-do-if-you-were-the-ceo-of-a-business-named-corona-794dc4e81ffe?source=rss-3c906d161b19------2)
+- [Creating The First Power Pages Portal](https://www.c-sharpcorner.com/article/creating-the-first-power-pages-portal/)
+- [What are Power Pages](/blogs/what-are-power-pages)
+- [Difference Between Node Cache And Redis Cache](/blogs/difference-between-node-cache-and-redis-cache)
+- [Create a Simple Node Cache With Express Node JS](https://www.c-sharpcorner.com/article/create-a-simple-node-cache-with-express-node-js/)
+- [Create a Redis Cache with Express Node JS](https://www.c-sharpcorner.com/article/create-a-redis-cache-with-express-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -92,8 +92,8 @@
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/jamesgeorge007/github-activity-readme/issues/63) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❌ Closed PR [#38894](https://github.com/firstcontributions/first-contributions/pull/38894) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🗣 Commented on [#266](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics/issues/266) in [MicrosoftDocs/OfficeDocs-WorkplaceAnalytics](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics)
+2. 💪 Opened PR [#266](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics/pull/266) in [MicrosoftDocs/OfficeDocs-WorkplaceAnalytics](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics)
 3. 💪 Opened PR [#16](https://github.com/developedbyed/glass-website/pull/16) in [developedbyed/glass-website](https://github.com/developedbyed/glass-website)
 4. 💪 Opened PR [#38894](https://github.com/firstcontributions/first-contributions/pull/38894) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 5. ❗️ Opened issue [#15](https://github.com/developedbyed/glass-website/issues/15) in [developedbyed/glass-website](https://github.com/developedbyed/glass-website)
