@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Basic Commands](https://cswesh.github.io/posts/git-cmd-cheatsheet/)
+- [Cheat Sheet For Git Basic Commands](https://www.c-sharpcorner.com/article/cheat-sheet-for-git-basic-commands/)
 - [Markdown Quick Syntax](https://cswesh.github.io/posts/markdown-quick-syntax/)
 - [Creating The First Power Pages Portal](https://www.c-sharpcorner.com/article/creating-the-first-power-pages-portal/)
 - [Hello World](https://cswesh.github.io/posts/hello-world/)
-- [What are Power Pages](/blogs/what-are-power-pages)
-- [Difference Between Node Cache And Redis Cache](/blogs/difference-between-node-cache-and-redis-cache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
