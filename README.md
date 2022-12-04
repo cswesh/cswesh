@@ -92,8 +92,8 @@
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics/issues/266) in [MicrosoftDocs/OfficeDocs-WorkplaceAnalytics](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics)
-2. 💪 Opened PR [#266](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics/pull/266) in [MicrosoftDocs/OfficeDocs-WorkplaceAnalytics](https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics)
+1. 🗣 Commented on [#816](https://github.com/MicrosoftDocs/bot-docs/issues/816) in [MicrosoftDocs/bot-docs](https://github.com/MicrosoftDocs/bot-docs)
+2. 🗣 Commented on [#816](https://github.com/MicrosoftDocs/bot-docs/issues/816) in [MicrosoftDocs/bot-docs](https://github.com/MicrosoftDocs/bot-docs)
 3. 💪 Opened PR [#16](https://github.com/developedbyed/glass-website/pull/16) in [developedbyed/glass-website](https://github.com/developedbyed/glass-website)
 4. 💪 Opened PR [#38894](https://github.com/firstcontributions/first-contributions/pull/38894) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 5. ❗️ Opened issue [#15](https://github.com/developedbyed/glass-website/issues/15) in [developedbyed/glass-website](https://github.com/developedbyed/glass-website)
