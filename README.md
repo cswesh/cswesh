@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VS code shortcuts](https://cswesh.github.io/posts/VSCode-shortcuts/)
 - [What Is A Chatbot And How Does It Work](https://www.c-sharpcorner.com/article/what-is-a-chatbot-and-how-does-it-work/)
 - [An Awesome New Feature In Power Platform - Power Apps Cards](/blogs/an-awesome-new-feature-in-power-platform-power-apps-cards)
 - [Cheat Sheet For Markdown Language](https://www.c-sharpcorner.com/article/cheat-sheet-for-markdown-language/)
 - [Git Basic Commands](https://cswesh.github.io/posts/git-cmd-cheatsheet/)
-- [Cheat Sheet For Git Basic Commands](https://www.c-sharpcorner.com/article/cheat-sheet-for-git-basic-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
