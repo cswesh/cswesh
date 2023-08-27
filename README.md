@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are HTTP Methods in APIs](https://cswesh.github.io/http-methods/)
 - [Deploy the Microsoft Teams Bot in Azure and Test in Web Chat](https://www.c-sharpcorner.com/article/deploy-the-microsoft-teams-bot-in-azure-and-test-in-web-chat/)
-- [TOP API Architectures in 2023](https://cswesh.github.io/posts/top-api-architecture-in-2023/)
+- [TOP API Architectures in 2023](https://cswesh.github.io/top-api-architecture-in-2023/)
 - [Create a Microsoft Teams Bot using Node JS](https://www.c-sharpcorner.com/article/create-a-microsoft-teams-bot-using-node-js/)
 - [Create a Telegram bot using Node JS](https://www.c-sharpcorner.com/article/create-a-telegram-bot-using-node-js/)
-- [What is WebView2 and How it is Linked to Microsoft Teams 2.0?](https://www.c-sharpcorner.com/article/what-is-webview2-and-how-it-is-linked-to-microsoft-teams-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
