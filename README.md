@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are HTTP Methods in APIs](https://cswesh.github.io/http-methods/)
-- [Deploy the Microsoft Teams Bot in Azure and Test in Web Chat](https://www.c-sharpcorner.com/article/deploy-the-microsoft-teams-bot-in-azure-and-test-in-web-chat/)
-- [TOP API Architectures in 2023](https://cswesh.github.io/top-api-architecture-in-2023/)
-- [Create a Microsoft Teams Bot using Node JS](https://www.c-sharpcorner.com/article/create-a-microsoft-teams-bot-using-node-js/)
-- [Create a Telegram bot using Node JS](https://www.c-sharpcorner.com/article/create-a-telegram-bot-using-node-js/)
+- [SOAP &lpar;Simple Object Access Protocol&rpar;](https://cswesh.github.io/key-aspects-of-soap/)
+- [WebSockets Architecture](https://cswesh.github.io/how-websockets-architecture-works/)
+- [Webhook Architecture](https://cswesh.github.io/how-webhook-architecture-works/)
+- [gRPC &lpar;Remote Procedure Call&rpar;](https://cswesh.github.io/api-architecture-of-grpc/)
+- [MQTT &lpar;Message Queing Telemetry Transport&rpar;](https://cswesh.github.io/mqtt-api-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
