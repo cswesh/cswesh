@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [REST &lpar;Representational State Transfer&rpar;](https://cswesh.github.io/rest-api-architecture/)
+- [Unlocking the Future: Azure OpenAI Services](https://www.c-sharpcorner.com/article/unlocking-the-futu-azure-openai-services/)
+- [GraphQL](https://cswesh.github.io/graphql-in-api-architecture/)
 - [SOAP &lpar;Simple Object Access Protocol&rpar;](https://cswesh.github.io/key-aspects-of-soap/)
 - [WebSockets Architecture](https://cswesh.github.io/how-websockets-architecture-works/)
-- [Webhook Architecture](https://cswesh.github.io/how-webhook-architecture-works/)
-- [gRPC &lpar;Remote Procedure Call&rpar;](https://cswesh.github.io/api-architecture-of-grpc/)
-- [MQTT &lpar;Message Queing Telemetry Transport&rpar;](https://cswesh.github.io/mqtt-api-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
