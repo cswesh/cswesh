@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Text Analysis in Artificial Intelligence](https://www.c-sharpcorner.com/article/what-is-text-analysis-in-artificial-intelligence/)
 - [REST &lpar;Representational State Transfer&rpar;](https://cswesh.github.io/rest-api-architecture/)
 - [Unlocking the Future: Azure OpenAI Services](https://www.c-sharpcorner.com/article/unlocking-the-futu-azure-openai-services/)
 - [GraphQL](https://cswesh.github.io/graphql-in-api-architecture/)
 - [SOAP &lpar;Simple Object Access Protocol&rpar;](https://cswesh.github.io/key-aspects-of-soap/)
-- [WebSockets Architecture](https://cswesh.github.io/how-websockets-architecture-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
