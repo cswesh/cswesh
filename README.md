@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delving into Meaning: An Introduction to Semantics](https://www.c-sharpcorner.com/article/delving-into-meaning-an-introduction-to-semantics/)
+- [Beyond Keywords: Decoding the Hidden Meaning - Semantic Search](https://www.c-sharpcorner.com/article/beyond-keywords-decoding-the-hidden-meaning-semantic-search/)
 - [What is Text Analysis in Artificial Intelligence](https://www.c-sharpcorner.com/article/what-is-text-analysis-in-artificial-intelligence/)
 - [REST &lpar;Representational State Transfer&rpar;](https://cswesh.github.io/rest-api-architecture/)
 - [Unlocking the Future: Azure OpenAI Services](https://www.c-sharpcorner.com/article/unlocking-the-futu-azure-openai-services/)
-- [GraphQL](https://cswesh.github.io/graphql-in-api-architecture/)
-- [SOAP &lpar;Simple Object Access Protocol&rpar;](https://cswesh.github.io/key-aspects-of-soap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
