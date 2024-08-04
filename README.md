@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 Copilot - Architecture Explained](https://www.c-sharpcorner.com/article/microsoft-365-copilot-architecture-explained/)
+- [Understanding the basics of Copilot Studio Architecture](https://www.c-sharpcorner.com/article/understanding-the-basics-of-copilot-studio-architecture/)
 - [Delving into Meaning: An Introduction to Semantics](https://www.c-sharpcorner.com/article/delving-into-meaning-an-introduction-to-semantics/)
 - [Beyond Keywords: Decoding the Hidden Meaning - Semantic Search](https://www.c-sharpcorner.com/article/beyond-keywords-decoding-the-hidden-meaning-semantic-search/)
 - [What is Text Analysis in Artificial Intelligence](https://www.c-sharpcorner.com/article/what-is-text-analysis-in-artificial-intelligence/)
-- [REST &lpar;Representational State Transfer&rpar;](https://cswesh.github.io/rest-api-architecture/)
-- [Unlocking the Future: Azure OpenAI Services](https://www.c-sharpcorner.com/article/unlocking-the-futu-azure-openai-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
