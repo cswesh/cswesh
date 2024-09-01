@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Microsoft 365 Copilot Prompts](https://www.c-sharpcorner.com/article/mastering-microsoft-365-copilot-prompts/)
 - [Semantic Kernel - A brief overview](https://www.c-sharpcorner.com/article/semantic-kernel-a-brief-overview/)
 - [Understanding Semantic Index for Generative AI Aspirants](https://www.c-sharpcorner.com/article/understanding-semantic-index-for-generative-ai-aspirants/)
 - [Microsoft 365 Copilot - Architecture Explained](https://www.c-sharpcorner.com/article/microsoft-365-copilot-architecture-explained/)
 - [Understanding the basics of Copilot Studio Architecture](https://www.c-sharpcorner.com/article/understanding-the-basics-of-copilot-studio-architecture/)
-- [Delving into Meaning: An Introduction to Semantics](https://www.c-sharpcorner.com/article/delving-into-meaning-an-introduction-to-semantics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
