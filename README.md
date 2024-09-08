@@ -92,8 +92,8 @@
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/microsoft/hack-together-teams/issues/111#issuecomment-1595627818) in [microsoft/hack-together-teams](https://github.com/microsoft/hack-together-teams)
-2. 🗣 Commented on [#111](https://github.com/microsoft/hack-together-teams/issues/111#issuecomment-1593548397) in [microsoft/hack-together-teams](https://github.com/microsoft/hack-together-teams)
+1. 🗣 Commented on [#40](https://github.com/pnp/copilot-prompts/issues/40#issuecomment-2333379764) in [pnp/copilot-prompts](https://github.com/pnp/copilot-prompts)
+2. ❗ Opened issue [#40](https://github.com/pnp/copilot-prompts/issues/40) in [pnp/copilot-prompts](https://github.com/pnp/copilot-prompts)
 3. ❗ Opened issue [#111](https://github.com/microsoft/hack-together-teams/issues/111) in [microsoft/hack-together-teams](https://github.com/microsoft/hack-together-teams)
 4. 💪 Opened PR [#38894](https://github.com/firstcontributions/first-contributions/pull/38894) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 5. ❗️ Opened issue [#15](https://github.com/developedbyed/glass-website/issues/15) in [developedbyed/glass-website](https://github.com/developedbyed/glass-website)
