@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot Extensibility – A Brief Overview](https://www.c-sharpcorner.com/article/copilot-extensibility-a-brief-overview/)
+- [Copilot Customization: Welcome the Logged-in User with the Name](https://www.c-sharpcorner.com/article/copilot-customization-welcome-the-logged-in-user-with-the-name/)
 - [Copilot Extensibility- Adding the Action plugin to the Topics](https://www.c-sharpcorner.com/article/copilot-extensibility-adding-the-action-plugin-to-the-topics/)
 - [Copilot Extensibility - How to Add a Weather Plugin?](https://www.c-sharpcorner.com/article/copilot-extensibility-how-to-add-a-weather-plugin/)
 - [Mastering Microsoft 365 Copilot Prompts](https://www.c-sharpcorner.com/article/mastering-microsoft-365-copilot-prompts/)
-- [Semantic Kernel - A brief overview](https://www.c-sharpcorner.com/article/semantic-kernel-a-brief-overview/)
-- [Understanding Semantic Index for Generative AI Aspirants](https://www.c-sharpcorner.com/article/understanding-semantic-index-for-generative-ai-aspirants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
