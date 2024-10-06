@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Gems - Converting the Table Response Into String Variable](https://www.c-sharpcorner.com/article/hidden-gems-converting-the-table-response-into-string-variable/)
+- [Hidden Gems - Adding the Custom Data to Generative Answers](https://www.c-sharpcorner.com/article/hidden-gems-adding-the-custom-data-to-generative-answers/)
+- [Custom Copilot: Fetch and Process SharePoint List Data Using Prompt AI Builder](https://www.c-sharpcorner.com/article/custom-copilot-process-sharepoint-lists/)
 - [Copilot Extensibility – A Brief Overview](https://www.c-sharpcorner.com/article/copilot-extensibility-a-brief-overview/)
 - [Copilot Customization: Welcome the Logged-in User with the Name](https://www.c-sharpcorner.com/article/copilot-customization-welcome-the-logged-in-user-with-the-name/)
-- [Copilot Extensibility- Adding the Action plugin to the Topics](https://www.c-sharpcorner.com/article/copilot-extensibility-adding-the-action-plugin-to-the-topics/)
-- [Copilot Extensibility - How to Add a Weather Plugin?](https://www.c-sharpcorner.com/article/copilot-extensibility-how-to-add-a-weather-plugin/)
-- [Mastering Microsoft 365 Copilot Prompts](https://www.c-sharpcorner.com/article/mastering-microsoft-365-copilot-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
