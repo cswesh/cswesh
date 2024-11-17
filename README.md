@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference Between Large Language Model &amp;amp; Small Language Model](https://www.c-sharpcorner.com/article/difference-between-large-language-model-small-language-model/)
 - [All About the New Microsoft Copilot Agents](https://www.c-sharpcorner.com/article/all-about-the-new-microsoft-copilot-agents/)
 - [Hidden Gems - Converting the Table Response Into String Variable](https://www.c-sharpcorner.com/article/hidden-gems-converting-the-table-response-into-string-variable/)
 - [Hidden Gems - Adding the Custom Data to Generative Answers](https://www.c-sharpcorner.com/article/hidden-gems-adding-the-custom-data-to-generative-answers/)
 - [Custom Copilot: Fetch and Process SharePoint List Data Using Prompt AI Builder](https://www.c-sharpcorner.com/article/custom-copilot-process-sharepoint-lists/)
-- [Copilot Extensibility – A Brief Overview](https://www.c-sharpcorner.com/article/copilot-extensibility-a-brief-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
