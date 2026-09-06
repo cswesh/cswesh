@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Summary of Microsoft Ignite 2024 with Copilot Studio](https://www.c-sharpcorner.com/article/quick-summary-of-microsoft-ignite-2024-with-copilot-studio/)
-- [Difference Between Large Language Model &amp;amp; Small Language Model](https://www.c-sharpcorner.com/article/difference-between-large-language-model-small-language-model/)
-- [All About the New Microsoft Copilot Agents](https://www.c-sharpcorner.com/article/all-about-the-new-microsoft-copilot-agents/)
-- [Hidden Gems - Converting the Table Response Into String Variable](https://www.c-sharpcorner.com/article/hidden-gems-converting-the-table-response-into-string-variable/)
-- [Hidden Gems - Adding the Custom Data to Generative Answers](https://www.c-sharpcorner.com/article/hidden-gems-adding-the-custom-data-to-generative-answers/)
+- [REST &lpar;Representational State Transfer&rpar;](https://cswesh.github.io/rest-api-architecture/)
+- [GraphQL](https://cswesh.github.io/graphql-in-api-architecture/)
+- [SOAP &lpar;Simple Object Access Protocol&rpar;](https://cswesh.github.io/key-aspects-of-soap/)
+- [WebSockets Architecture](https://cswesh.github.io/how-websockets-architecture-works/)
+- [Webhook Architecture](https://cswesh.github.io/how-webhook-architecture-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
